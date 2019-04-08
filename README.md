@@ -1,5 +1,6 @@
 # Table-View-Desplegable-Swift
 
+<img src="screenshot.gif" />
 
 ```swift
 struct CellData {
